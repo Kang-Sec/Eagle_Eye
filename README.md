@@ -15,3 +15,9 @@
 
 **Windows现阶段做了以下信息提取：（务必使用管理员身份运行！！）**
 ![Eagle_Eye规划 (1)](https://github.com/Kang-Sec/Eagle_Eye/assets/67182576/91546773-5bf8-4cdb-966e-dda1954e1534)
+
+**Linux信息收集待续。。。。**
+
+欢迎大佬提取修改建议。
+企鹅群：
+![alt text](<B`E_(O1H5)C@AJ6K0`5KM(1.jpg>)
